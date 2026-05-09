@@ -1,0 +1,3 @@
+verilog work "../../RTL/4bit up.v"
+verilog work "../../TB/counter4bitup_tb.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
